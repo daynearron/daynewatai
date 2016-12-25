@@ -117,5 +117,8 @@
       "pg",
       "showdown-ghost"
     ]
-  }
+  },
+  "xmlbuilder" : "latest",
+  "xml2js":"latest",
+  "aws-sdk-apis" : "latest"
 }
